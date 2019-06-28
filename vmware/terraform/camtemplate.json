@@ -23,7 +23,6 @@
     }
   },
   "metadata": {
-    "displayName": "Execute an Ansible Playbook on a single virtual machine - VMware vSphere",
     "providerDisplayName": "VMware vSphere",
     "longDescription": "This template executes an ansible playbook on a Linux virtual machine.",
     "bullets": [
